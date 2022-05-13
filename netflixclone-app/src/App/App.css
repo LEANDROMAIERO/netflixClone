@@ -22,3 +22,10 @@ margin: 50px 0;
 text-align: center ;
 
 }
+
+@media (max-width:760px){
+    .loading img{
+        height: 30vh;        
+
+    }
+}
