@@ -15,7 +15,7 @@ App responsivo desktop e mobile
 
 ##
 
-link para visualização:
+link para visualização do App:
 https://cloneflix-leandro.surge.sh/
 
 ##
